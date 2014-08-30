@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1409356182 source:c:\cdsp_tarea1\huffmantree.cpp
+	"HuffmanTree.h"
+
+1409355907 c:\cdsp_tarea1\huffmantree.h
+	<stdio.h>
+	<string>
+	<iostream>
+
+1409356732 source:c:\cdsp_tarea1\huffmancode.cpp
+	"HuffmanTree.h"
+	<iostream>
+
