@@ -28,3 +28,27 @@ int main() {
 
     return 0;
 }
+
+int[] readFileAndBuildInts() {
+    //leer el archivo
+    return null;
+}
+
+int[] armarFrecuencias(int[] archivo){
+    
+    int[] prob = new int[256];
+
+    for (int i=0;i<prob.length;i++){
+        prob[i]=0;
+        for (int j=0;j<archivo.length;j++){
+            if (archivo[j]==i){
+                prob[i]++;
+            }
+        }
+    }
+    return prob;
+}
+
+void armarArbol(int m, int[] occurencies){
+    
+}
