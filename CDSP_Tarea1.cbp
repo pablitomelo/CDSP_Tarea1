@@ -31,6 +31,9 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="HuffmanCode.cpp" />
+		<Unit filename="HuffmanTree.cpp" />
+		<Unit filename="HuffmanTree.h" />
 		<Extensions>
 			<code_completion />
 			<debugger />
